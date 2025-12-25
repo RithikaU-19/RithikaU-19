@@ -9,8 +9,9 @@
 
 - Engineeing at [<img height="50" width="50" src="https://pbs.twimg.com/profile_images/545454189820669952/kCm3LNyq_400x400.jpeg" alt="KRCE Logo" >](https://www.krce.ac.in/),
 
-- Social Presence
-  <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/rithikaumasankar08)
+- Social Presence  
+  <br />
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rithikaumasankar08)
 
 
 ### I code in
