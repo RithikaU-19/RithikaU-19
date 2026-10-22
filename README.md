@@ -26,3 +26,13 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rithikau?theme=dark&font=Arapey&ext=heatmap)
 
 [![Rithika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RithikaU-19&bg_color=000000&color=fafafa&line=5feca3&point=4eb76d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+## 🟢 Watch My Contributions Move!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RithikaU-19/RithikaU-19/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RithikaU-19/RithikaU-19/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/RithikaU-19/RithikaU-19/output/github-snake.svg">
+</picture>
+
